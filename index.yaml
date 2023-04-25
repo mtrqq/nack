@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  nack:
+  - apiVersion: v2
+    appVersion: 0.10.1+discard-per
+    created: "2023-04-25T11:26:20.396683175+03:00"
+    description: A Helm chart for NACK
+    digest: 41cbb5a3f58a05b581ada25cf77f9b0fc03dd67977a67537a58de566e687dcf9
+    icon: https://nats.io/img/nats-icon-color.png
+    keywords:
+    - nats
+    - jetstream
+    - cncf
+    maintainers:
+    - email: info@nats.io
+      name: The NATS Authors
+      url: https://github.com/nats-io
+    name: nack
+    urls:
+    - https://mtrqq.github.io/nack/nack-0.21.1+discard-per.tgz
+    version: 0.21.1+discard-per
+generated: "2023-04-25T11:26:20.395316972+03:00"
